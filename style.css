@@ -1,0 +1,50 @@
+*{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: rgba(7, 71, 7, 0.2);
+    font-size: 1em;
+}
+
+.li{
+    background-color: rgb(85, 173, 109) ;
+    color: rgb(8, 46, 19);
+}
+
+hr{
+    border: 2px solid rgb(8, 46, 19);;
+}
+
+li{
+    list-style: inside;
+}
+
+.aboutmelist li{
+    list-style: none;
+}
+
+button{
+    background-color: rgb(8, 46, 19);
+    text-decoration: none;
+    border: 0em;
+    padding: 1em;
+    width: 15em;
+    height: 4em;
+    text-align: center;
+}
+
+button a{
+    color: white;
+}
+
+.button2{
+    background-color: rgb(8, 46, 19);
+    text-decoration: none;
+    border: 0em;
+    padding: 1em;
+    width: 12em;
+    height: 4em;
+    text-align: center;
+}
