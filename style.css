@@ -6,7 +6,7 @@
 body{
     
     background-color: rgba(7, 71, 7, 0.2);
-    font-size: 1em;
+    font-size: 16px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -26,9 +26,11 @@ li{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.aboutmelist li{
-    list-style: none;
+.mydata li{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+    margin-left: 20em;
+    margin-top: -1.3em;
 }
 
 button{
@@ -45,15 +47,23 @@ button{
 button a{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
 }
 
 .button2{
     background-color: rgb(8, 46, 19);
     text-decoration: none;
     border: 0em;
-    padding: 1em;
-    width: 12em;
+    padding: 0.5em;
+    width: 14em;
     height: 4em;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+.button2 a{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
 }
