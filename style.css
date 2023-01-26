@@ -6,7 +6,7 @@
 body{
     
     background-color: rgba(7, 71, 7, 0.2);
-    font-size: 16px;
+    font-size: 1em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -28,9 +28,7 @@ li{
 
 .mydata li{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    list-style: none;
-    margin-left: 20em;
-    margin-top: -1.3em;
+    list-style-type: none;
 }
 
 button{
@@ -38,8 +36,8 @@ button{
     text-decoration: none;
     border: 0em;
     padding: 1em;
-    width: 15em;
-    height: 4em;
+    width: 12em;
+    height: 3em;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -47,7 +45,7 @@ button{
 button a{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 1em;
 }
 
 .button2{
@@ -55,15 +53,15 @@ button a{
     text-decoration: none;
     border: 0em;
     padding: 0.5em;
-    width: 14em;
-    height: 4em;
+    width: 10em;
+    height: 3em;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 1em;
 }
 
 .button2 a{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
+    font-size: 0.9em;
 }
