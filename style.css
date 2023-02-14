@@ -3,11 +3,24 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.topbox{
+    height: 10em;
+}
+
 body{
     
     background-color: rgba(7, 71, 7, 0.2);
     font-size: 1em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    right: 0;
+    width: 100%;
+    background-color: rgb(205 ,218, 205);
 }
 
 .li{
